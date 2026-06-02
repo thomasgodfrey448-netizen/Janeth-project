@@ -28,21 +28,21 @@ st.markdown("""
 .title {
     text-align:center;
     color:#2F243A;
-    font-size:200px;
+    font-size:60px;
     font-weight:900;
 }
 
 .subtitle {
     text-align:center;
     color:#6D4C85;
-    font-size:80px;
+    font-size:40px;
     font-weight:700;
 }
 
 .description {
     text-align:center;
     color:#4A4A4A;
-    font-size:60px;
+    font-size:20px;
     margin-bottom: 28px;
 }
 
