@@ -8,7 +8,7 @@ import joblib
 st.set_page_config(
     page_title="Employee Performance Prediction",
     page_icon="",
-    layout="wide"
+    layout="Normal",
 )
 
 # ==============================
