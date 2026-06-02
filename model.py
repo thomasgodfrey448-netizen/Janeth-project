@@ -69,17 +69,17 @@ st.markdown("""
 # HEADER
 # ==============================
 st.markdown(
-    '<h1 style="text-align:center; color:#2F243A; font-size:120px; font-weight:900; margin-bottom: 12px;">Employee Performance Prediction System</h1>',
+    '<h1 style="text-align:center; color:#2F243A; font-size:48px; font-weight:900; margin-bottom: 12px;">Employee Performance Prediction System</h1>',
     unsafe_allow_html=True
 )
 
 st.markdown(
-    '<h2 style="text-align:center; color:#6D4C85; font-size:80px; font-weight:700; margin-top: 0; margin-bottom: 12px;">INX Future Inc. - HR Analytics Dashboard</h2>',
+    '<h2 style="text-align:center; color:#6D4C85; font-size:28px; font-weight:700; margin-top: 0; margin-bottom: 12px;">INX Future Inc. - HR Analytics Dashboard</h2>',
     unsafe_allow_html=True
 )
 
 st.markdown(
-    '<p style="text-align:center; color:#4A4A4A; font-size:54px; margin-bottom: 36px; line-height:1.2;">Use this dashboard to predict employee performance ratings and gain HR insights from employee and career attributes.</p>',
+    '<p style="text-align:center; color:#4A4A4A; font-size:18px; margin-bottom: 36px; line-height:1.4;">Use this dashboard to predict employee performance ratings and gain HR insights from employee and career attributes.</p>',
     unsafe_allow_html=True
 )
 
